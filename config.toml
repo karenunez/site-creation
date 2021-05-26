@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal website of Emily Cooper"
-author = "Emily Cooper"
+title = "Personal website of Karen Nuñez-Reza"
+author = "Karen Nuñez"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
@@ -55,7 +55,7 @@ enableEmoji = true
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = "plum" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
